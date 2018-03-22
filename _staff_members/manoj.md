@@ -1,6 +1,6 @@
 ---
-name: Manoj Pratim Samanta
+name: Manoj Pratim Samanta, PhD
 position: Scientist
 image_path: https://source.unsplash.com/collection/139386/605x605?a=.png
-blurb: Manoj likes to travel and has visited over 50 countries.
+blurb: Manoj is a bioinformatician.
 ---
