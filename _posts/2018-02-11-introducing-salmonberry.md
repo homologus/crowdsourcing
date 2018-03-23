@@ -4,7 +4,7 @@ date: 2018-02-11
 description: Explaining the biological definition
 categories:
   - botany
-image: http://www.goodfoodworld.com/wp-content/uploads/2012/12/Picture-1_salmonberry-300x199.jpg
+image: /images/photos/photo1.jpg
 author_staff_member: adithi
 ---
 
