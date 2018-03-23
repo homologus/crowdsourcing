@@ -2,5 +2,5 @@
 name: Brianna Platt
 position: Young Scientist
 image_path: https://source.unsplash.com/collection/139386/601x601?a=.png
-blurb: Betty is a bookworm who will typically have four books on the go.
+blurb: Brianna is a curious scientist from Sammamish High School.
 ---

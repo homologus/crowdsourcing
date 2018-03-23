@@ -4,7 +4,7 @@ date: 2018-03-06
 description: 
 categories:
   - sequencing
-image: http://www.goodfoodworld.com/wp-content/uploads/2012/12/Picture-1_salmonberry-300x199.jpg
+image: /images/photos/photo3.jpg
 author_staff_member: ananya
 ---
 
