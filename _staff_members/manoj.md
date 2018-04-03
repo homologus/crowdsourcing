@@ -1,6 +1,6 @@
 ---
 name: Manoj Pratim Samanta, PhD
 position: Scientist
-image_path: https://source.unsplash.com/collection/139386/605x605?a=.png
+image_path: /images/members/manoj.jpg
 blurb: Manoj is a bioinformatician.
 ---
