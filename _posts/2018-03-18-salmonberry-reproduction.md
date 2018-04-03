@@ -1,14 +1,12 @@
 ---
 title: Salmonberry Reproduction
-date: 2018-02-25
+date: 2018-03-18
 description: 
 categories:
   - botany
 image: /images/photos/photo4.jpg
 author_staff_member: eric
 ---
-
-## Overview  
 
 The salmonberry, or the Rubus spectabilis, is a member of the Rosacea family, the same family as strawberries, blackberries, raspberries, and many more fruits.
 The salmonberry shares a similar structure to blackberries and raspberries, but has a bright orange color like salmon roe.
