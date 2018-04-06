@@ -3,10 +3,11 @@
 
 title: Salmonberry Genomics
 url: "http://coding4medicine.com:2163"
-baseurl: "/max"
+baseurl: "/pavel"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
+excerpt_separator: "<!--more-->"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png

@@ -11,6 +11,7 @@ author_staff_member: eric
 Flavonoids can be found in all parts of a plant: its roots, its stem, its bark, as well as in its fruit. 
 The production of flavonoids is dependent on the amount of sunlight, heat, ozone, and hydration.
 They are repsonsible for numerous health benefits from different fruits. 
+<!--more-->
 
 For instance, there is a process called oxidation that happens in every human’s body.
 Oxidation is the metabolizing of oxygen, which creates things called free radicals and essentially causes us to age.

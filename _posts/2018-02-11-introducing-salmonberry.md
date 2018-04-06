@@ -16,6 +16,7 @@ Most note, however, that they thrive in the Pacific Northwest because of the rai
 Appearance-wise, the salmonberry looks like a raspberry, but its taste is quite tart.
 Its colors range from bright orange to a deep red.
 These berries are also known to possess large seeds and a high water content.
+<!--more-->
   
 Their scientific name is <i>Rubus spectabilis</i>.
 Rubus refers to a large genus of 450-750 species.
