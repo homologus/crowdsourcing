@@ -20,8 +20,9 @@ They then travel to another salmonberry plant where the pollen that they acquire
 Salmonberries also reproduce through consumption by mammals.
 Each drupelet of a salmonberry has a seed, which is protected enough to withstand the digestive tract of an animal.
 The seed is later dropped in the hopes that it grows into a plant.
-Not very many seeds germinate the immediate spring, but this does not present a problem as seeds can stay dormant for decades.
-A triggering factor for germination could be a low-intensity fire, causing a seed to break out of its cotyledon and start sprouting.
+Not very many seeds germinate immediately after being dropped since they often stay dormant for decades.
+They do this to avoid trying to grow in adverse conditions. 
+A triggering factor for germination could be a low-intensity fire, which causes a seed to break out of its cotyledon and start sprouting.
 A high-intensity fire, on the other hand, can be detrimental and inhibit the growth of a salmonberry.
 
 Salmonberries also extensively use an alternate form of reproduction: vegetative.
