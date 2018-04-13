@@ -10,7 +10,8 @@ author_staff_member: ananya
 
 One of the many steps in our salmonberry project entails getting our samples sequenced.
 Sequencing determines the exact order of nucleotides within a certain genetic molecule.
-We will then analyze those sequences using bioinformatics and use what we find to help understand salmonberry’s health benefits.
+We will then analyze those sequences using bioinformatics and relate what we find to 
+salmonberry’s health benefits.
 <!--more-->
  
 Under the umbrella of “sequencing”, there is a plethora of sequencing options to choose from.

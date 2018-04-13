@@ -5,6 +5,8 @@ left_links:
     link: /blog/
   - name: Contact
     link: /contact/
+  - name: Donate
+    link: /donate/
 right_links:
   - name:
     link: /feed.xml
