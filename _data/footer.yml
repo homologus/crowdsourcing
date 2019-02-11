@@ -5,8 +5,8 @@ left_links:
     link: /blog/
   - name: Contact
     link: /contact/
-  - name: Donate
-    link: /donate/
+  - name: Project Timeline and Updates
+    link: /updates/
 right_links:
   - name:
     link: /feed.xml
